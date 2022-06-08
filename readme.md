@@ -10,7 +10,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Titulo** : ¿Dónde está Sara?
 
-**Web:**  mariajosereyesbravo.github.io (url github.io)
+**Web:**  https://github.com/mariajosereyesbravo/mariajosereyesbravo.github.io
 
 **Autor:**  María José Reyes Bravo
 
@@ -19,9 +19,8 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 **Estilo/género:** Thriller
 
 **Logotipo** : 
- 
 
-(insertar imágenes a resolucion de 100px alto)
+![logo donde esta sara1](https://user-images.githubusercontent.com/106732185/172667154-67329b75-63e7-4c80-95e8-29fa8e74e22d.jpg)
 
 **Resolución:** 800x600px responsivo/o tamaño fijo 
 
@@ -39,23 +38,24 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 - Instagram
 
 
-![girl](https://github.com/mgea/cmi20/blob/master/WalkingGirl_front01.png)
 
 # 2. Memoria del proyecto 
 
 ### 2.1 Storyboard: 
 
 
+![storyboard a4](https://user-images.githubusercontent.com/106732185/172667411-c0bc8f79-5f0d-486a-8252-48676d170769.jpg)
+El proyecto se inicia con el teaser principal que te introduce en la historia de la desaparación, a continuación aparece el menú. Desde la escena principal se puede llegar tanto a reproducir de nuevo el teaser, como el comienzo del juego, hasta la galería y los créditos. Cuando le damos al play, el juego se inicia con la declaración de la figura principal, como es el detective. Tras ello, se llega al dormitorio de Sara, que se divide en 2 escenas. En ambas aparecen áreas calientes que te muestran pistas, en las cuáles dos puedes hacer click y te llevaran a la parte del dormitorio más concreto. Una vez que el jugador este preparado para cerrar el caso, llegará al quizz dónde aparecen dos preguntas con un margen de 3 errores.
 
-(narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
 
 
 
 ### 2.2. Esquema de navegación 
+![Esquema de navegación](https://user-images.githubusercontent.com/106732185/172668115-8944b000-102a-41a0-a1e5-584c7ab32239.jpg)
 
 
 
-(imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
+
 
 
 
@@ -65,7 +65,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 # 3. Metodología
 
-Metodología de desarrollo de productos multimedia basado en una metodología de UX (User Experience)
+Para crear una experiencia mas amena para el receptor al que llegue el proyecto, he conseguido hacer pruebas con personas +14 para ver que variar o mejorar, y cosas que corregir. Por ejemplo el hecho de introducir el juego con la interacción del detective. o incluso mostrar las reglas o ayudas para las pistas. 
 
 
 
@@ -73,20 +73,19 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 **Investigación de campo** (propuestas inspiradoras para el proyecto)
 
-- Portfolio [Leonardi Web page](http://www.rleonardi.com/interactive-resume/) para idear cómo organizar el material
-- 
+- Juego Cube Escape de Rusty Lake. Thriller de investigación. Para idear el formato del escenario.
 
 
 
 **Motivación de la propuesta** 
 
-Este  proyecto es interesante porque ... 
+Este proyecto es interesante porque hace reflexionar y obliga a los espectadores a investigar. Se meten en la piel de un detective, para el cual hay que relacionar conceptos más allá de las pistas planteadas.
 
 
 
 **Publico / audiencia**
 
-- Orientado a 
+- Orientado a +14
 
 
 
@@ -96,23 +95,23 @@ Este  proyecto es interesante porque ...
 
 (qué soluciones has planteado y cómo se han resuelto: juego, galería de fotos, grabación de video, etc.)
 
-- Juego. 
-- Video 
-- Instrucciones y ayuda al usuario 
-- Menús y elementos de navegación (botones)
+- Juego: solucionar el hecho de compactar demasiada información. 
+- Video: utilizar trozos de ¿Quién mató a Sara? Creada por José Ignacio Valenzuela
+- Instrucciones y ayuda al usuario: crear una serie de viñetas para facilitar el inicio al juego. 
+- Menús y elementos de navegación (botones): simplificar la forma además de ambientarlos con la estética del proyecto.
 - etc.
 
 
 
 ### Etapa 3: Problemas identificados
 
-(que consideras que no  funciona correctamente y por qué )
+Considero que los botones no son excesivamente rápidos, es necesario esperar un poco para que realicen su función. 
 
 
 
 # 4. Conclusiones 
 
-(explica brevemente tu valoración, problemas que has detectado y que te gustaría hacer o mejorar en el futuro )
+En cuanto a mi valoración, debo decir que un futuro me gustaría completar el proyecto y enfocarlo para ser más extenso. Ya que necesitaría varios conceptos nuevos para poder abarcar más conocimiento acerca de la influencia en el espectador, y como hacer mas llamativa la propuesta.
 
 
 
@@ -122,25 +121,23 @@ Este  proyecto es interesante porque ...
 
 # 5 Referencias 
 
-**Artículos y blogs ** 
-
-- Crofts, S., Fox, M., Retsema, A. and Williams, B. (2005) *Podcasting: A new technology in search of viable business models*First Monday, 10(9). https://doi.org/10.5210/fm.v10i9.1273. Recuperado el 8 de abril de 2020 de: https://journals.uic.edu/ojs/index.php/fm/article/view/1273/1193
 
 **Recursos y materiales audiovisuales:**
 
-* Musica:  
-* Imágenes:  
-* Tipografía
+•	Musica: música sin copyright de Youtube
+•	Imágenes: creadas y diseñadas por la autora.  
+•	Tipografía: Mom´sTypewriter.
+
 
 **Herramientas utilizadas**
 
 - Hippani Animator 5.1
-- 
 
 
+![CC_BY-SA_3 0](https://user-images.githubusercontent.com/106732185/172673608-7c9569bd-526c-4b11-9d42-b9b412b8dedb.png)
 
-(imagen de la licencia, copiar y pegar aquí la correcta)
+
 
 https://creativecommons.org/licenses/?lang=es
 
-Mayo 2020
+Junio 2022
