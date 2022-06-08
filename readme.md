@@ -10,27 +10,27 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Titulo** : ¿Dónde está Sara?
 
-**Web:**   (url github.io)
+**Web:**  mariajosereyesbravo.github.io (url github.io)
 
 **Autor:**  María José Reyes Bravo
 
-**Resumen** : Este proyecto busca contar las hitorias de migrantes jóvenes, siendo ellos mismos los protagonistas. Esta será una compilación de relatos y crónicas de sus experiencias, exponiendo su lucha de identidad y sentido de pertenencia, herencia migratoria, entre otros temas que abrirán un debate del tema.
+**Resumen** : Este proyecto busca crear la atención de los jóvenes ligada al entretenimiento. El objetivo principal es desarrollar el carácter de investigación y proporcionar una propia interacción. El proyecto abarca una historia sobre la protagonista, Sara, la cuál a desaparecido, y necesitaremos encontrar su paradero junto con el implicado/a.
 
-**Estilo/género:**  Novela / juego / portfolio / documental... etc.
+**Estilo/género:** Thriller
 
-**Logotipo** : (insertar imagen y breve justificación, si  tiene) 
+**Logotipo** : 
+ 
 
 (insertar imágenes a resolucion de 100px alto)
 
-**Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
+**Resolución:** 800x600px responsivo/o tamaño fijo 
 
-**Probado en:**   (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
+**Probado en:**   para proporcionar que el proyecto funcione, lo he probado tanto en dispositivos móviles, como en páginas web (Chrome).
 
-**Tamaño proyecto:** 14MB 
-
+**Tamaño proyecto:** 6,37 MB
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
 
-**Fecha** : 14/05/2020
+**Fecha** : 08/06/22
 
 **Medios** (donde se tiene presencia relacionada):
 
